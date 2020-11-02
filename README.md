@@ -71,7 +71,7 @@ e 2 4
 ```
 
 ## Output
-The output is a .dot file with the calculated coordinates foe each vertex of the 
+The output is a .dot file with the calculated coordinates for each vertex of the 
 input graph. If you want to visualize your result you can use GraphViz. A link is
 added below and the input of this program is .dot file.
 
