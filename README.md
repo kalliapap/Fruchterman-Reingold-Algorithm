@@ -77,5 +77,5 @@ added below and the input of this program is .dot file.
 
  [GraphViz](https://www.graphviz.org/)
 
-After installing **GraphViz** you execute the command below:
+After installing **GraphViz** you execute the command below:  
 **`fdp -s file.dot -Tpdf -o result.pdf`** 
