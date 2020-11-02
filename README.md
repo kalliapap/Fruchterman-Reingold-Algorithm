@@ -20,11 +20,11 @@ javac *.java
 `**
 
 ### Run command
-Without filename type 
-**```java GraphImplementation```** 
+Without an input file type  
+**```java GraphImplementation```**  
+else if you want to add input file from command line type  
+**```java GraphImplementation filename```**  
 
-**```java GraphImplementation filename```**
-if you want to add input file from command line.
 
 ## Compile and Run with Bash
 If you want to use the bash files existing in the project (compile.sh, 
@@ -34,17 +34,17 @@ the same directory with **.java** files.
 ### Compile from Bash
 In order to compile with bash file execute the commands below, in the given order
 
-**`chmod +x compile.sh`**
+**`chmod +x compile.sh`**  
 **```./compile.sh```**
 
 ### Run from Bash
 
-**```chmod +x run.sh**```**
+**```chmod +x run.sh**```**  
 **```./run.sh**```**
 
 
-### Run from Bash with input from command line
-**```chmod +x runFile.sh```**
+### Run from Bash with input from command line  
+**```chmod +x runFile.sh```**  
 **```./runFile.sh```**
 
 #### !Attention
